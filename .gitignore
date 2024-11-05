@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Notify-Me_new/DesignTimeBuild
+/.vs/Notify-Me_new/FileContentIndex
+/.vs/Notify-Me_new/v17
+*.json
+*.sqlite
+/ObserverPattern/bin/Debug/net6.0
+/ObserverPattern/obj
