@@ -9,3 +9,5 @@
 *.sqlite
 /ObserverPattern/bin/Debug/net6.0
 /ObserverPattern/obj
+/DecoratorPattern/bin/Debug/net6.0
+/DecoratorPattern/obj
